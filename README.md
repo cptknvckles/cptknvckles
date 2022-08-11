@@ -1,7 +1,9 @@
 ### Hi there 👋
-I am here to learn Front-End WebDev
-Eventually I'll get back into Java, and learn Solidity
+I am here to learn Front-End WebDev!
 <br>
+Possibly move to Full-Stack!
+<br>
+Langs: HTML, CSS, JavaScript, Java, Python
 [![wakatime](https://wakatime.com/badge/user/1b386657-c586-42b5-98ba-ac254fe0b02d.svg)](https://wakatime.com/@1b386657-c586-42b5-98ba-ac254fe0b02d)
 <!--
 **cptknvckles/cptknvckles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
