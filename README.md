@@ -6,6 +6,7 @@ Possibly move to Full-Stack!
 Langs: HTML, CSS, JavaScript, Svelte, Swift(maybe?). 
 <br>
 [![wakatime](https://wakatime.com/badge/user/1b386657-c586-42b5-98ba-ac254fe0b02d.svg)](https://wakatime.com/@1b386657-c586-42b5-98ba-ac254fe0b02d)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=cptknvckles)](https://git.io/streak-stats)
 <!--
 **cptknvckles/cptknvckles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
