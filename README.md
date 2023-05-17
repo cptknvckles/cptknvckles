@@ -3,7 +3,7 @@ I am here to learn Front-End WebDev!
 <br>
 Possibly move to Full-Stack!
 <br>
-Langs: HTML, CSS, JavaScript, React, Swift. 
+Langs: HTML, CSS, JavaScript, Svelte, Swift(maybe?). 
 <br>
 [![wakatime](https://wakatime.com/badge/user/1b386657-c586-42b5-98ba-ac254fe0b02d.svg)](https://wakatime.com/@1b386657-c586-42b5-98ba-ac254fe0b02d)
 <!--
